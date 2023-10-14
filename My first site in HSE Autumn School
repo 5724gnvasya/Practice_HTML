@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/stanis.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="two-list">
+            <nav>
+                <ol start="4" class="header">
+                    <li>item1</li>
+                    <li>item2</li>
+                    <li>item3</li>
+                </ol>
+            </nav>
+            <nav>
+                <ul>
+                    <li>item1</li>
+                    <li>item2</li>
+                    <li>item3</li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+
+</html>
+<header class="header">
+    <div>
+        <nav>
+            <ol>
+                <li>item 1</li>
+                <li>item 2</li>
+                <li>Item 3</li>
+            </ol>
+        </nav>
+    </div>
+</header>
+
+
+<main>
+    <section>
+        <h1>заголовок 1</h1>
+        <h2>заголовок 2</h2>
+        <h3>заголовок 3</h3>
+        <h4>заголовок 4</h4>
+        <h5>заголовок 5</h5>
+        <h6>заголовок 6</h6>
+
+
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            Cum aliquid ipsam est harum necessitatibus placeat voluptatem,
+            cumque id eum repellendus ratione, dolorem unde rerum exercitationem,
+            blanditiis molestias numquam accusamus sint.
+        </p>
+    </section>
+    <section>
+        <!--<img src="https://techcrunch.com/wp-content/uploads/2012/11/imac-13retinambp-sidebyside.jpg" alt="Photo">-->
+        <!--<img src="img/Cheiphez.jpeg" alt="Photo">-->
+        <p><a href="https://homeet.hse.ru/registration"> click me!!</a></p>
+        <img src="img/png-clipart-national-research-university-higher-school-of-economics-moscow-state-university-main-building-university-of-maryland-college-park-school-text-logo.png"
+            alt="One more photoo!!">
+
+    </section>
+
+
+
+    <section>
+        <form class="form">
+            <label for="name">Введите имя:</label>
+            <input name="name" id="name" type="text" placeholder="Введите имя">
+            <label for="password">Введите пароль:</label>
+            <input name="password" id="password" type="password" placeholder="Введите пароль">
+            <label for="comment"> Опишите ваши эмоции от ввода пароля</label>
+            <textarea name="comment" id="comment" cols="30" rows="10"></textarea>
+            <button></button>
+        </form>
+    </section>
+</main>
+<section></section>
+<footer class="footer">
+    <p>Lorem <i>ipsum dolor</i> sit amet consectetur <b>adipisicing</b> elit.
+        Omnis <u>molestias</u> quam placeat necessitatibus minima magnam quaerat nesciunt.
+        Maxime esse laboriosam veritatis <r>repellendus</r> enim quia, dolores eos earum quas ipsa? Adipisci?</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Omnis molestias <span class = "span"> quam placeat necessitatibus minima magnam quaerat nesciunt.
+        Maxime esse laboriosam veritatis repellendus enim quia, dolores eos earum quas ipsa? Adipisci?</p>
+
+
+<section>
+    <button class = "button">
+        Я нажимаюсь, но не нажимаюсь!!
+    </button>
+</section>
+
+</footer>
+
+
+
+
+<aside></aside><!-- add -->
+<footer></footer>
+<div>
+    <nav></nav>
+
+
+</div>
+<tag id="your id" class="your class"> text</tag>
+<aside>РЕКЛАМА</aside>
+
+</body>
